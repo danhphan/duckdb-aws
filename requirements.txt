@@ -1,0 +1,8 @@
+duckdb
+awscli
+pandas
+ipython
+boto3
+jupysql
+notebook
+watermark
